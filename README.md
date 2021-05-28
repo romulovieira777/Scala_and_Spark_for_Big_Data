@@ -8,7 +8,7 @@
 - [Seção 11 - Regression with Spark](https://github.com/romulovieira777/Scala_and_Spark_for_Big_Data/tree/main/Se%C3%A7%C3%A3o%2011%20-%20Regression%20with%20Spark)
 - [Seção 12 - Classification with Spark](https://github.com/romulovieira777/Scala_and_Spark_for_Big_Data/tree/main/Se%C3%A7%C3%A3o%2012%20-%20Classification%20with%20Spark)
 - [Seção 13 - Model Evaluation](https://github.com/romulovieira777/Scala_and_Spark_for_Big_Data/tree/main/Se%C3%A7%C3%A3o%2013%20-%20Model%20Evaluation)
-
+- [Seção 14 - Clustering with Spark](https://github.com/romulovieira777/Scala_and_Spark_for_Big_Data/tree/main/Se%C3%A7%C3%A3o%2014%20-%20Clustering%20with%20Spark)
 
 
 Link para o curso: [Udemy](https://www.udemy.com/share/101XdICUMTdVZTRX4=/)
