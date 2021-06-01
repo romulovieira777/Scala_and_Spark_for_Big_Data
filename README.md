@@ -10,6 +10,7 @@
 - [Seção 13 - Model Evaluation](https://github.com/romulovieira777/Scala_and_Spark_for_Big_Data/tree/main/Se%C3%A7%C3%A3o%2013%20-%20Model%20Evaluation)
 - [Seção 14 - Clustering with Spark](https://github.com/romulovieira777/Scala_and_Spark_for_Big_Data/tree/main/Se%C3%A7%C3%A3o%2014%20-%20Clustering%20with%20Spark)
 - [Seção 15 - PCA with Spark](https://github.com/romulovieira777/Scala_and_Spark_for_Big_Data/tree/main/Se%C3%A7%C3%A3o%2015%20-%20PCA%20with%20Spark)
+- [Seção 16 - DataBricks and Spark](https://github.com/romulovieira777/Scala_and_Spark_for_Big_Data/tree/main/Se%C3%A7%C3%A3o%2016%20-%20DataBricks%20and%20Spark)
 
 
 Link para o curso: [Udemy](https://www.udemy.com/share/101XdICUMTdVZTRX4=/)
